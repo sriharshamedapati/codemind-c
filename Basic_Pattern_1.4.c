@@ -9,8 +9,7 @@ int main(){
             num++;
         }
         num=65;
-        printf("
-");
+        printf("\n");
     }
     return 0;
 }
